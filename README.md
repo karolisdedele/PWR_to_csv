@@ -1,4 +1,4 @@
-# Power Reviews XML to CSV converter readme
+# Power Reviews XML to CSV converter
 
 This python file is meant to convert power reviews XML to CSV format to match Bazaarvoice data point names.
 
